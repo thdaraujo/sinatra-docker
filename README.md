@@ -1,5 +1,14 @@
-# Dockerized Sinatra application
+Sinatra Docker
+==============
 
-You can find instructions on how to use this repo here:
+Based on this [repo](https://github.com/jasonswett/dockerized-sinatra-application)
 
-https://www.codewithjason.com/dockerize-sinatra-application/
+Run:
+```sh
+$ docker-compose up
+```
+
+Open:
+``` sh
+$ open localhost
+```
